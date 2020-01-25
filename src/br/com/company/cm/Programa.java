@@ -8,6 +8,5 @@ public class Programa {
 		
 		Tabuleiro tabuleiro = new Tabuleiro(6, 6, 3);
 		new TabuleiroConsole(tabuleiro);
-
 	}
 }
